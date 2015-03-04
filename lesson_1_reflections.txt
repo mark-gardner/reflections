@@ -1,3 +1,5 @@
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 
 Diff makes it easy to see where file differences occur.
+
+Adding more text as test...
